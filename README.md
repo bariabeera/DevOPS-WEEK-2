@@ -1,1 +1,3 @@
-# DevOPS-WEEK-2
+
+# My First Git Project
+this is my introduction to git!
